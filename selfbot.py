@@ -31,7 +31,7 @@ async def on_ready():
     Thanks to omens for anti selfbot detection + asyncio (Omnes#0581)
     """)
     if config.stream:
-        await bot.change_presence(activity=discord.Streaming(name="Andy On Top", url="https://youtube.com"))
+        await bot.change_presence(activity=discord.Streaming(name="Jannatul Firdaws", url="https://www.youtube.com/channel/UClBOTgwLDMqzIwnNTbM5Kug"))
 
 @bot.command()
 async def bump(ctx):
